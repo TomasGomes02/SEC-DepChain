@@ -6,7 +6,7 @@ This project was developed alongside [@MartinSilveira](https://github.com/Martin
 
 The goal was to create a simplified permissioned Blockchain system with high dependability guarantees, called Dependable Chain (DepChain). The first stage of the project focused on building the consensus layer, while the second stage focused on the transaction processing layer.
 
-The full report on the development of DepChain can be found on REPORT.pdf in this same repository!
+The full report on the development of DepChain can be found on [REPORT.pdf](https://github.com/TomasGomes02/SEC-DepChain/blob/main/REPORT.pdf) in this same repository!
 
 ### Tests
 Starting off, if the file all_members.p12 is not present in the root directory, please run ThreshSighSetup.java in order to create this file. This will setup all the keys and signatures.
