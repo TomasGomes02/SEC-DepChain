@@ -2,7 +2,7 @@
 
 ### About
 
-This project was developed alongside @MartinSilveira and @tomasmatos6 for the Highly Dependable Systems course of the Instituto Superior Técnico Master's Degree on Computer Science and Engineering. We achieved a final grade of 19.13 out of 20.
+This project was developed alongside [@MartinSilveira](https://github.com/MartinSilveira/) and [@tomasmatos6](https://github.com/tomasmatos6/) for the Highly Dependable Systems course of the Instituto Superior Técnico Master's Degree on Computer Science and Engineering. We achieved a final grade of 19.13 out of 20.
 
 The goal was to create a simplified permissioned Blockchain system with high dependability guarantees, called Dependable Chain (DepChain). The first stage of the project focused on building the consensus layer, while the second stage focused on the transaction processing layer.
 
